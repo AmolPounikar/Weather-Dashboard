@@ -58,28 +58,5 @@ Edit
 npm run dev
 The application will be available at http://localhost:5173.
 
-🧪 Testing
-To run tests (if implemented):
 
-bash
-Copy
-Edit
-npm run test
-📁 Project Structure
-bash
-Copy
-Edit
-├── public/               # Static assets
-├── src/
-│   ├── components/       # Reusable UI components
-│   ├── services/         # API calls and data fetching
-│   ├── App.tsx           # Root component
-│   ├── main.tsx          # Entry point
-├── .env                  # Environment variables
-├── index.html            # HTML template
-├── package.json          # Project metadata and scripts
-├── tailwind.config.js    # Tailwind CSS configuration
-├── tsconfig.json         # TypeScript configuration
-📄 License
-This project is licensed under the MIT License.
 
