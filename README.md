@@ -2,7 +2,7 @@ Weather Dashboard
 A modern, responsive weather dashboard built with Vite, React, TypeScript, Tailwind CSS, and shadcn/ui. This application fetches real-time weather data from the OpenWeatherMap API and displays current conditions along with a 3-day forecast.
 
 🌐 Live Demo
-https://your-deployment-url.com
+[https://your-deployment-url.com](https://weather-dashboard-five-chi.vercel.app/)
 
 🚀 Features
 Current Weather: Displays temperature, humidity, wind speed, and weather conditions.
@@ -34,7 +34,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/weather-dashboard.git
+git clone [https://github.com/your-username/weather-dashboard.git](https://github.com/AmolPounikar/Weather-Dashboard)
 cd weather-dashboard
 Install dependencies:
 
